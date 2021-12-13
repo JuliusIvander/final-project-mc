@@ -39,7 +39,7 @@ Project
 ```
 
 Keterangan folder:
-| Syntax | Description |
+| Nama Folder | Keterangan |
 | ----------- | ----------- |
 | addson | Menyimpan library penunjang proyek |
 | dataset | Menyimpan data yang diperlukan untuk proses pelatihan dan evaluasi model |
